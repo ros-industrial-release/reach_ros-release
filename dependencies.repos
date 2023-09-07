@@ -1,0 +1,8 @@
+- git:
+   local-name: boost_plugin_loader
+   uri: https://github.com/tesseract-robotics/boost_plugin_loader.git
+   version: 4b033614eb6d49f33d1995c2aeb1f3f691576041
+- git:
+   local-name: reach
+   uri: https://github.com/ros-industrial/reach.git
+   version: 1.3.0
